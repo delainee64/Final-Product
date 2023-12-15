@@ -2,11 +2,12 @@
   "name": "movies-starter-frontend",
   "version": "2023",
   "private": true,
-  "proxy": "http://localhost:3000",
+  "proxy": "https://final-product.onrender.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "build": "^0.1.4",
     "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
     "nodemailer-react": "^1.0.2",
