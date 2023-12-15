@@ -5,7 +5,8 @@
     "main": "homeProjects-controller.mjs",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "nodemon homeProjects-controller.mjs"
+        "start": "nodemon homeProjects-controller.mjs",
+        "postinstall": "npm fund"
     },
     "author": "Delainee Lenss",
     "license": "ISC",
